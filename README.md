@@ -6,10 +6,7 @@ I'm Titou from France, I'm currently studying at the IUT of computer science in 
 
 👑💻Skills and Devellopeement :
 
-*C++
-*Python
-*Shell
-*HTML / CSS
+C++/ Python/ Shell /HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TitouCoch)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tit0u_chrl/)  
 
